@@ -4,7 +4,7 @@
 
 Me chamo Guilherme Nunes, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio e, em seguida, me formei em Análise e Desenvolvimento de Sistemas pela Fatec São Caetano do Sul. Atualmente, estou me dedicando ao desenvolvimento mobile, com foco em Android (Java e Kotlin).
 
-Sou apaixonado por tecnologia e sempre busco compartilhar e expandir meus conhecimentos através de projetos pessoais, como o app GridZone, e conteúdos nas redes. Tenho experiência com Firebase, Retrofit, arquitetura MVVM, Room, autenticação, consumo de APIs e muito mais. Também já atuei em projetos acadêmicos e estou em busca da minha primeira oportunidade na área para crescer profissionalmente e contribuir com a equipe.
+Sou apaixonado por tecnologia e sempre busco compartilhar e expandir meus conhecimentos através de projetos pessoais, como o app GridZone e o AppMatch. Tenho experiência com Firebase, Retrofit, arquitetura MVVM, Room, autenticação, consumo de APIs e muito mais. Também já atuei em projetos acadêmicos e estou em busca da minha primeira oportunidade na área para crescer profissionalmente.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/guilherme-delecrode" target="_blank">
