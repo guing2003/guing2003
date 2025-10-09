@@ -39,7 +39,7 @@ Sou apaixonado por tecnologia e sempre busco compartilhar e expandir meus conhec
       <img 
        alt="Kotlin"
        title="Kotlin"  
-        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
       />
     <a href="https://github.com/guing2003?tab=repositories&sort=stargazers">
         <img 
