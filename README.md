@@ -67,6 +67,46 @@ Sou apaixonado por tecnologia e sempre busco compartilhar e expandir meus conhec
 <br/>
 <br/>
 
+## 🌱 Atualmente estudando
+
+- Desenvolvimento Android (Kotlin)
+- Arquiteturas
+- Teste Unitarios (JUnit e Kluent)
+- Jetpack Compose
+- Automação com IA (N8N)
+
+---
+
+## 💻 Experiência Profissional e Projetos Relevantes
+
+**Freelancer:**
+
+- 📱 **Sem Sobras:** Android para lojas e restaurantes comercializarem alimentos próximos do vencimento, reduzindo desperdício. Desenvolvido com Jetpack Compose, Kotlin, Retrofit e arquitetura MVVM.
+- 🎸 **Eat Vida** Aplicativo Android para registro e gerenciamento de dietas, exibindo riscos nutricionais e alertas personalizados. Construído com Jetpack Compose, Kotlin e Koin.  
+- 🎧 **Fluitz:** Aplicativo Android para consultas on-line, integração com farmácias e laboratórios, e rede social entre pacientes e médicos. Desenvolvido com Jetpack Compose (frontend em andamento).
+- 👨‍💻 **Br Barbearia**Aplicativo Android para franqueados acompanharem pontuação, recompensas e extratos financeiros. Desenvolvido com Jetpack Compose, Kotlin, Retrofit, Koin e arquitetura MVVM.
+
+**Projetos Pessoais:**
+
+- 📲 **Android (Kotlin / Java):**  
+  Desenvolvimento de aplicativos nativos com foco em boas práticas, UI moderna e consumo de APIs REST.  
+  Projetos: **AppNews**, **AppMatch**, **GridZone** *(em desenvolvimento)*.  
+
+- 💻 **Web (NodeJS / ReactJS):**  
+  **CommuUnity** — Rede social voltada a estudantes, desenvolvida com **ReactJS** e **NodeJS**, integrando autenticação, banco de dados e chat em tempo real.  
+
+- 📲 **Flutter (Dart):**  
+  **GuiaMoteis** — *Clone funcional* de aplicativo de busca e reserva de motéis, com **consumo de API REST**, **integração de mapas** e **interface responsiva**, seguindo **arquitetura MVVM adaptada ao Flutter**.
+
+---
+
+## 🎓 Educação
+
+- 💻 **Análise e Desenvolvimento de Sistemas** — Fatec São Caetano do Sul (2024)  
+- 🎓 **Ensino Médio** — Alcina Dantas Feijão (2021)
+
+
+
 ### 📊 Estatísticas do GitHub
 
 <p>
@@ -86,3 +126,4 @@ Sou apaixonado por tecnologia e sempre busco compartilhar e expandir meus conhec
   />
 
 </p>
+
