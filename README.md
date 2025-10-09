@@ -34,6 +34,29 @@ Sou apaixonado por tecnologia e sempre busco compartilhar e expandir meus conhec
 
 ### 🤖 Linguagens e Tecnologias
 
+
+<p align="left">
+      <img 
+       alt="Kotlin"
+       title="Kotlin"  
+        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"
+      />
+    <a href="https://github.com/guing2003?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/guing2003?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/guing2003?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/guing2003?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
   <img 
     align="left" 
     alt="Kotlin"
@@ -104,6 +127,16 @@ Sou apaixonado por tecnologia e sempre busco compartilhar e expandir meus conhec
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" 
   />
+
+  <img 
+    align="left" 
+    alt="Jetpack Compose"
+    title="Jetpack Compose" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" 
+  />
+           
 <img 
     align="left" 
     alt="Bootstrap"
@@ -124,7 +157,7 @@ Sou apaixonado por tecnologia e sempre busco compartilhar e expandir meus conhec
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
 <p>
   <img 
