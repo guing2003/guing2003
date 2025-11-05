@@ -89,7 +89,7 @@ Sou apaixonado por tecnologia e sempre busco compartilhar e expandir meus conhec
 
 - 📲 **Android (Kotlin / Java):**  
   Desenvolvimento de aplicativos nativos com foco em boas práticas, UI moderna e consumo de APIs REST.  
-  Projetos: **AppNews**, **AppMatch**, **GridZone** *(em desenvolvimento)*.  
+  Projetos: **AppNews**, **AppMatch**, **SmartCash** *(em desenvolvimento)*.  
 
 - 💻 **Web (NodeJS / ReactJS):**  
   **CommuUnity** — Rede social voltada a estudantes, desenvolvida com **ReactJS** e **NodeJS**, integrando autenticação, banco de dados e chat em tempo real.  
