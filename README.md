@@ -63,6 +63,16 @@ Sou apaixonado por tecnologia e sempre busco compartilhar e expandir meus conhec
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+## 🧪 Testes
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Kluent](https://img.shields.io/badge/Kluent-000000?style=for-the-badge&logo=kotlin&logoColor=white)
+![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+## 🧪 Automações
+![n8n](https://img.shields.io/badge/n8n-FE7448?style=for-the-badge&logo=n8n&logoColor=white)
+
+
 
 <br/>
 <br/>
