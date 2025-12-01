@@ -68,6 +68,7 @@ Sou apaixonado por tecnologia e sempre busco compartilhar e expandir meus conhec
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Kluent](https://img.shields.io/badge/Kluent-000000?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MockK](https://img.shields.io/badge/MockK-6D3FD0?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## 🧪 Automações
 ![n8n](https://img.shields.io/badge/n8n-FE7448?style=for-the-badge&logo=n8n&logoColor=white)
