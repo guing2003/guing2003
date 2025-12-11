@@ -81,7 +81,6 @@ Sou apaixonado por tecnologia e sempre busco compartilhar e expandir meus conhec
 ## 🌱 Atualmente estudando
 
 - Arquiteturas
-- Teste Unitarios (JUnit e Kluent)
 - Jetpack Compose
 - Automação com IA (N8N)
 
@@ -93,14 +92,16 @@ Sou apaixonado por tecnologia e sempre busco compartilhar e expandir meus conhec
 
 - 📱 **Sem Sobras:** Aplicativo Android para lojas e restaurantes comercializarem alimentos próximos do vencimento, reduzindo desperdício. Desenvolvido com Jetpack Compose, Kotlin, Retrofit e arquitetura MVVM.
 - 🎸 **Eat Vida** Aplicativo Android para registro e gerenciamento de dietas, exibindo riscos nutricionais e alertas personalizados. Construído com Jetpack Compose, Kotlin e Koin.  
-- 🎧 **Fluitz:** Aplicativo Android para consultas on-line, integração com farmácias e laboratórios, e rede social entre pacientes e médicos. Desenvolvido com Jetpack Compose (frontend em andamento).
+- 🎧 **Fluitz:** Aplicativo Android para consultas on-line, integração com farmácias e laboratórios, e rede social entre pacientes e médicos. Desenvolvido com Jetpack Compose.
 - 👨‍💻 **Br Barbearia** Aplicativo Android para franqueados acompanharem pontuação, recompensas e extratos financeiros. Desenvolvido com Jetpack Compose, Kotlin, Retrofit, Koin e arquitetura MVVM.
+- 🏥 Alessandro Magalhães: Aplicativo Android de telemedicina e agendamento de consultas, conectando pacientes a profissionais de saúde. Inclui autenticação completa, gestão de consultas, dependentes, histórico médico, pagamentos e telas informativas. Desenvolvido em Kotlin com Jetpack Compose, Retrofit, Moshi, MVVM, Clean Architecture, Koin, Coroutines e DataStore.
+
 
 **Projetos Pessoais:**
 
 - 📲 **Android (Kotlin / Java):**  
   Desenvolvimento de aplicativos nativos com foco em boas práticas, UI moderna e consumo de APIs REST.  
-  Projetos: **AppNews**, **AppMatch**, **SmartCash** *(em desenvolvimento)*.  
+  Projetos: **AppNews**, **AppMatch**, **SmartCash** *(em desenvolvimento)*, **DevHub** *(em desenvolvimento)*.  
 
 - 💻 **Web (NodeJS / ReactJS):**  
   **CommuUnity** — Rede social voltada a estudantes, desenvolvida com **ReactJS** e **NodeJS**, integrando autenticação, banco de dados e chat em tempo real.  
